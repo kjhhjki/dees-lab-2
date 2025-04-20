@@ -1,0 +1,5 @@
+break vuln
+break main
+break *vuln + 0x126f
+break *vuln + 0xf
+
